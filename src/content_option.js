@@ -43,24 +43,20 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Languages -- Python, C++, JavaScript, MATLAB, R",
         value: 90,
     },
     {
-        name: "C++",
-        value: 90,
+        name: "Front-End -- React.js, Node.js, QT Designer, WordPress",
+        value: 75,
     },
     {
-        name: "JavaScript",
-        value: 80,
+        name: "Back-End -- MongoDB, SQL",
+        value: 75,
     },
     {
-        name: "R",
+        name: "Data Science -- TensorFlow, Sci-Kit Learn, Pytorch",
         value: 85,
-    },
-    {
-        name: "React.js",
-        value: 60,
     },
 ];
 
