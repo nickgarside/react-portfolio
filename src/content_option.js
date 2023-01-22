@@ -51,7 +51,7 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Javascript",
+        name: "JavaScript",
         value: 80,
     },
     {
@@ -59,7 +59,7 @@ const skills = [{
         value: 85,
     },
     {
-        name: "React",
+        name: "React.js",
         value: 60,
     },
 ];
@@ -69,7 +69,7 @@ const services = [{
         description: "I can help you develop extremely fast C++ applications that do the heavy lifting of logic and calculations for your backend.",
     },
     {
-        title: "Full-stack Website Development",
+        title: "Full-stack Web Development",
         description: "I can help you design and implement a professional website for either yourself, or for a small business!",
     },
     {
@@ -80,8 +80,13 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-93573-2/MediaObjects/41598_2021_93573_Fig2_HTML.png?as=webp",
-        desctiption: "Published academic article in data science.",
+        desctiption: "Academic Machine Learning Publication",
         link: "https://www.nature.com/articles/s41598-021-93573-2",
+    },
+    {
+        img: "https://www.uu.se/digitalAssets/895/c_895428-l_3-k_image.jpg",
+        desctiption: "ChatGPT API Client",
+        link: "https://chat-gpt-eta.vercel.app/",
     },
 ];
 
