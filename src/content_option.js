@@ -18,7 +18,7 @@ const introdata = {
 
 const dataabout = {
     title: "Summary",
-    aboutme: "I am a practiced software engineer and web developer.",
+    aboutme: "Based out of Dallas, TX, I have nearly 4 years worth of experience in software engineering and data science. My ventures have taken me everywhere from web development, embedded systems, data science and machine learning. One day I will be an astronaut leading humanity into a future among the stars.",
 };
 const worktimeline = [{
         jobtitle: "Software Engineer II",
