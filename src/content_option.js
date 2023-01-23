@@ -23,7 +23,7 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "Software Engineer II",
         where: "Lockheed Martin",
-        date: "May - Dec 2022",
+        date: "May 2022 - Present",
     },
     {
         jobtitle: "EVA Informatics Intern",
@@ -47,11 +47,15 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Front-End -- React.js, Node.js, QT Designer, WordPress",
+        name: "Front-End -- HTML, CSS, React.js, Node.js, QT, WordPress",
         value: 75,
     },
     {
-        name: "Back-End -- MongoDB, SQL",
+        name: "Back-End -- MongoDB, MySQL, MariaDB",
+        value: 75,
+    },
+    {
+        name: "Testing -- Jest",
         value: 75,
     },
     {
